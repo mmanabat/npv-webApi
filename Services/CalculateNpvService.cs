@@ -21,11 +21,8 @@ namespace npvWebAPI.Services
                     i += request.DiscountRateIncrement;
                 } while (Math.Round(i, 2) <= request.UpperBound);
             }
-            var result = new NpvResponse
-            {
-                Labels = npvLabelList,
-                Data = npvList
-            };
+            
+            var result = this.BuildNpvResponse(npvLabelList, npvList);
             return result;
         }
 
@@ -46,6 +43,15 @@ namespace npvWebAPI.Services
             value = Math.Round(value - initialInvestment, 2);
 
             return value;
+        }
+
+        private NpvResponse BuildNpvResponse(IList<string> npvLabelList,  IList<double> npvList)
+        {
+            return new NpvResponse
+            {
+                Labels = npvLabelList,
+                Data = npvList
+            };
         }
     }
 }
