@@ -16,12 +16,13 @@ namespace npvWebAPI
 
         public void Configure(IApplicationBuilder app)
         {
-            app.UseMvc();
             app.UseCors( builder => builder
             .AllowAnyHeader()
             .AllowAnyOrigin()
             .AllowAnyMethod()
             );
+            app.UseMvc();
+            
         }
     }
 }

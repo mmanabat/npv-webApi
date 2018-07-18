@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Files\\Documents\\npvWebAPI\\npvWebAPI.csproj",
+      "projectUniqueName": "e:\\My Files\\Documents\\NPV\\npvWebAPI\\npvWebAPI.csproj",
       "projectName": "npvWebAPI",
-      "projectPath": "E:\\My Files\\Documents\\npvWebAPI\\npvWebAPI.csproj",
+      "projectPath": "e:\\My Files\\Documents\\NPV\\npvWebAPI\\npvWebAPI.csproj",
       "packagesPath": "C:\\Users\\Maricar\\.nuget\\packages\\",
-      "outputPath": "E:\\My Files\\Documents\\npvWebAPI\\obj\\",
+      "outputPath": "e:\\My Files\\Documents\\NPV\\npvWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

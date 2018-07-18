@@ -12,3 +12,17 @@ e:\My Files\Documents\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.AssemblyInfo.c
 e:\My Files\Documents\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.RazorTargetAssemblyInfo.cache
 e:\My Files\Documents\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.dll
 e:\My Files\Documents\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.pdb
+e:\My Files\Documents\NPV\npvWebAPI\bin\Debug\netcoreapp2.1\npvWebAPI.deps.json
+e:\My Files\Documents\NPV\npvWebAPI\bin\Debug\netcoreapp2.1\npvWebAPI.runtimeconfig.json
+e:\My Files\Documents\NPV\npvWebAPI\bin\Debug\netcoreapp2.1\npvWebAPI.runtimeconfig.dev.json
+e:\My Files\Documents\NPV\npvWebAPI\bin\Debug\netcoreapp2.1\npvWebAPI.dll
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.csprojAssemblyReference.cache
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.csproj.CoreCompileInputs.cache
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.RazorAssemblyInfo.cache
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.RazorAssemblyInfo.cs
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.AssemblyInfoInputs.cache
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.AssemblyInfo.cs
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.RazorTargetAssemblyInfo.cache
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.dll
+e:\My Files\Documents\NPV\npvWebAPI\obj\Debug\netcoreapp2.1\npvWebAPI.pdb
+e:\My Files\Documents\NPV\npvWebAPI\bin\Debug\netcoreapp2.1\npvWebAPI.pdb
